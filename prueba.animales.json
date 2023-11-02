@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "65402a547b81df1dbfb3b9f7"
+  },
+  "grupo": "vertebrados",
+  "sub-grupo": "aves",
+  "especie": "Loro verde"
+},
+{
+  "_id": {
+    "$oid": "65402a547b81df1dbfb3b9f8"
+  },
+  "grupo": "vertebrados",
+  "sub-grupo": "mamíferos",
+  "especie": "León"
+},
+{
+  "_id": {
+    "$oid": "65402a547b81df1dbfb3b9f9"
+  },
+  "grupo": "invertebrados",
+  "sub-grupo": "insectos",
+  "especie": "Abeja"
+},
+{
+  "_id": {
+    "$oid": "65402a547b81df1dbfb3b9fa"
+  },
+  "grupo": "vertebrados",
+  "sub-grupo": "peces",
+  "especie": "Tiburón blanco"
+},
+{
+  "_id": {
+    "$oid": "65402a547b81df1dbfb3b9fb"
+  },
+  "grupo": "vertebrados",
+  "sub-grupo": "mamíferos",
+  "especie": "Delfín"
+},
+{
+  "_id": {
+    "$oid": "65402a547b81df1dbfb3b9fc"
+  },
+  "grupo": "invertebrados",
+  "sub-grupo": "moluscos",
+  "especie": "Pulpo"
+},
+{
+  "_id": {
+    "$oid": "65402a547b81df1dbfb3b9fd"
+  },
+  "grupo": "invertebrados",
+  "sub-grupo": "artrópodos",
+  "especie": "Araña"
+},
+{
+  "_id": {
+    "$oid": "65402a547b81df1dbfb3b9fe"
+  },
+  "grupo": "vertebrados",
+  "sub-grupo": "mamíferos",
+  "especie": "Elefante"
+},
+{
+  "_id": {
+    "$oid": "65402a547b81df1dbfb3b9ff"
+  },
+  "grupo": "invertebrados",
+  "sub-grupo": "insectos",
+  "especie": "Mariposa"
+},
+{
+  "_id": {
+    "$oid": "65402a547b81df1dbfb3ba00"
+  },
+  "grupo": "vertebrados",
+  "sub-grupo": "reptiles",
+  "especie": "Tortuga"
+}]
